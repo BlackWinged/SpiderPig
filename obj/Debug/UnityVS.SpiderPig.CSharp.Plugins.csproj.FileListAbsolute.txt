@@ -1,0 +1,17 @@
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+E:\Unity projects\SpiderPig\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Unity projects\SpiderPig\obj\Debug\UnityVS.SpiderPig.CSharp.Plugins.csprojResolveAssemblyReference.cache
+E:\Unity projects\SpiderPig\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Unity projects\SpiderPig\obj\Debug\Assembly-CSharp-firstpass.pdb
